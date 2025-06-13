@@ -17,7 +17,9 @@ Gas can be claimed once every 24 hours
 
 🔹 4. Install the Node
 Open your server terminal (Ubuntu 20.04+) and run:
-bash <(curl -s https://raw.githubusercontent.com/TmB0o0/node-scripts/main/cysic-node.sh)
+```bash
+curl -O https://raw.githubusercontent.com/TmB0o0/Cysic-Node/refs/heads/main/cysic.sh && chmod +x cysic.sh && sudo ./cysic.sh
+```
 🛠️ The script will automatically install all dependencies, download the files, and start the node in the background inside a screen session named cysic_node.
 🔹 5. Save Your Key
 After installation:
