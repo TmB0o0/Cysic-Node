@@ -39,4 +39,3 @@ You are now participating in the CYSIC testnet!
 🐦 Twitter: https://x.com/TmBO0o
 📁 GitHub: https://github.com/TmB0o0
 📖 GitBook: https://tmb.gitbook.io/nodeguidebook/
-pgsqlCopyEdit
